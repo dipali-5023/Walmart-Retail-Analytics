@@ -51,18 +51,12 @@ This project is an interactive retail analytics dashboard built using MySQL, Pow
 
 ---
 
-## Dashboard Preview
-(Add dashboard screenshot here)
-
----
-
 ## Files Included
 - `SALES-PROJECT.pbix`
 - `Walmart_sales.csv`
 - `walmart_data.sql`
-- Dashboard screenshots
 
----
+
 
 ## Project Workflow
 1. Data Cleaning in Excel
